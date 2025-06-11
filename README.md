@@ -6,26 +6,31 @@
 
 ## 🌟 About Me
 
-I'm a passionate Full Stack Developer who thrives in **collaborative environments**,  
-and enjoys building complete, scalable systems from backend to UI.
+As a Full Stack Developer, I bring a **team-oriented mindset** and hands-on experience  
+in building scalable web systems through close collaboration, ownership, and attention to detail.
 
-- 🤝 Experienced in team-based development with strong communication and cooperation  
-- 🎯 Driven by meaningful development – from system architecture to user experience  
-- 🧠 Quick to integrate into projects and teams – with adaptability and initiative  
-- 💡 Combine innovation with structured thinking and attention to detail  
-- 🚀 Always looking to contribute to impactful, maintainable solutions  
+- 🤝 I value clear communication, shared learning, and strong teamwork  
+- ⚙️ Skilled in end-to-end development with solid frontend & backend logic  
+- 🚀 Quick to onboard and contribute to cross-functional, fast-paced environments  
+- 📐 Passionate about solving real-world challenges with clean architecture and user-centered design
 
 ---
 
 ## 💼 Why Hire Me?
 
-> I’m a developer who builds full solutions – not just features.  
-> I thrive on solving real-world problems through logic, structure, and a strong eye for UX.  
-> My experience spans smart plugins, dynamic dashboards, API integrations, and modular platforms.
+🎯 I build **complete solutions**, not just isolated features – with a focus on clarity, logic, and UX value.
+
+- 🧠 Experienced in smart plugins, dynamic dashboards, API integrations, and modular systems  
+- 🔄 Proven ability to integrate into projects rapidly – both independently and in collaborative teams  
+- 🌐 Deep understanding of the web ecosystem – balancing innovation with practicality  
+- 📣 Strong communicator, always ready to learn, contribute, and adapt  
+
+💡 With motivation, consistency, and a problem-solving mindset,  
+I transform complex needs into clean, maintainable systems.
 
 ---
 
-## 🧰 Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" title="React"/>
@@ -76,6 +81,8 @@ and enjoys building complete, scalable systems from backend to UI.
 
 ---
 
-## 🚨 **Note:**
+## 🔴 Important Notice
 
-This GitHub profile replaces my previous account `ShoshHor` which is no longer accessible.
+🔔 This GitHub profile replaces my previous account `ShoshHor`, which is no longer accessible.
+
+---
