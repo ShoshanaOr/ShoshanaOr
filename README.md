@@ -1,14 +1,19 @@
-# ✨ Hi there! I'm Shoshana Horlik 👩‍💻
+# ✨ Hi there! I'm Shoshana Horlik ⚙️📊💻
 
-🤖 Full Stack Developer with a love for smart systems | clean code | happy users
+🤖 Full Stack Developer with a love for Clean Architecture | Smart UI | Scalable Systems 
 
 ---
 
 ## 🌟 About Me
 
-- 🎯 Driven by meaningful development – from architecture to user experience.
-- 🤝 Proactive, analytical, and highly adaptable across multiple projects.
-- 🧠 Passionate about creating scalable systems with modern tools and clean code.
+I'm a passionate Full Stack Developer who thrives in **collaborative environments**,  
+and enjoys building complete, scalable systems from backend to UI.
+
+- 🤝 Experienced in team-based development with strong communication and cooperation  
+- 🎯 Driven by meaningful development – from system architecture to user experience  
+- 🧠 Quick to integrate into projects and teams – with adaptability and initiative  
+- 💡 Combine innovation with structured thinking and attention to detail  
+- 🚀 Always looking to contribute to impactful, maintainable solutions  
 
 ---
 
@@ -71,6 +76,6 @@
 
 ---
 
-## 🔄 Note
+## 🚨 **Note:**
 
 This GitHub profile replaces my previous account `ShoshHor` which is no longer accessible.
