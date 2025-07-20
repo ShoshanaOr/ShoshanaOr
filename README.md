@@ -5,28 +5,28 @@
 ---
 
 ## 🌟 About Me
+I'm a self-taught Full Stack Developer with a passion for building robust, user-focused web systems.  
+With a team-oriented mindset and deep knowledge of both frontend and backend technologies,  
+I thrive in dynamic environments that value clarity, collaboration, and continuous learning.
 
-As a Full Stack Developer, I bring a **team-oriented mindset** and hands-on experience  
-in building scalable web systems through close collaboration, ownership, and attention to detail.
-
-- 🤝 I value clear communication, shared learning, and strong teamwork  
-- ⚙️ Skilled in end-to-end development with solid frontend & backend logic  
-- 🚀 Quick to onboard and contribute to cross-functional, fast-paced environments  
-- 📐 Passionate about solving real-world challenges with clean architecture and user-centered design
+🧬 Developed a smart plugin for SketchUp featuring dynamic unit loading, advanced search, and modular design.  
+🔗 Experienced in full-stack development using Node.js, PHP, Ruby, .NET Core, and databases like SQL and MongoDB.  
+🖥️ Skilled in building responsive, visually appealing interfaces with React, Material UI, Bootstrap, and jQuery.  
+🧠 Applies proven Design Patterns (Observer, Factory, Singleton, Command) to support scalable, cloud-based architecture.
 
 ---
 
-## 💼 Why Hire Me?
+## 🎯 Purpose-Driven, Result-Oriented
 
-🎯 I build **complete solutions**, not just isolated features – with a focus on clarity, logic, and UX value.
+Behind every line of code I write is a clear intention: to create real value.  
+Not just to make systems *work* — but to make them *right*, for users, teams, and long-term stability and growth.
 
-- 🧠 Experienced in smart plugins, dynamic dashboards, API integrations, and modular systems  
-- 🔄 Proven ability to integrate into projects rapidly – both independently and in collaborative teams  
-- 🌐 Deep understanding of the web ecosystem – balancing innovation with practicality  
-- 📣 Strong communicator, always ready to learn, contribute, and adapt  
+🔍 I take time to understand the *why* behind every requirement – bridging UX, tech, and business goals.  
+🌐 I connect the dots – from backend APIs to frontend UIs, from database models to user experiences.  
+🤝 I integrate seamlessly into diverse teams, communicate clearly, and take full ownership of end-to-end tasks.  
+🚀 I adapt quickly to new projects, and always seek to improve — both the system and myself.
 
-💡 With motivation, consistency, and a problem-solving mindset,  
-I transform complex needs into clean, maintainable systems.
+💡 My approach: Think clearly. Build wisely. Grow together.
 
 ---
 
